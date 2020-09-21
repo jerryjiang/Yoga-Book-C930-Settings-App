@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YogaBook设置</string>
+    <string name="keyboard_tile_name">键盘</string>
+    <string name="keyboard_bound_message">水墨键盘已启用。</string>
+    <string name="keyboard_unbound_message">水墨键盘已禁用。</string>
+</resources>

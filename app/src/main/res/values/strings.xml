@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">YogaBook Settings</string>
+    <string name="keyboard_tile_name">Keyboard</string>
+    <string name="keyboard_bound_message">E-ink keyboard enabled.</string>
+    <string name="keyboard_unbound_message">E-ink keyboard disabled.</string>
+</resources>
