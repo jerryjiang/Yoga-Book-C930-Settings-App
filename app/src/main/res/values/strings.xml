@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">YogaBook Settings</string>
+    <string name="app_name">Yoga Book Settings</string>
     <string name="keyboard_tile_name">Keyboard</string>
     <string name="keyboard_bound_message">E-ink keyboard enabled.</string>
     <string name="keyboard_unbound_message">E-ink keyboard disabled.</string>
+    <string name="custom_orientation_tile_name">Default Mode</string>
+    <string name="custom_orientation_laptop_mode">Laptop Mode</string>
+    <string name="system_overlay_permission_hint">Please grant the permission to display over other apps and try again.</string>
 </resources>
